@@ -1,0 +1,3 @@
+﻿  HW25.09_tusk3.cpp
+C:\Users\Rog\source\repos\HW25.09_tusk3\HW25.09_tusk3.cpp(12,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  HW25.09_tusk3.vcxproj -> C:\Users\Rog\source\repos\HW25.09_tusk3\x64\Debug\HW25.09_tusk3.exe
